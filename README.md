@@ -35,6 +35,13 @@ Sou **Adelson Guimarães** (@adelsontec), desenvolvedor de soluções de automa�
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelsontec&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
+
 ### 🌐 Onde me encontrar
 
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelsontec@gmail.com)
