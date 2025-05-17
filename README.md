@@ -37,7 +37,6 @@ Sou **Adelson Guimarães** (@adelsontec), desenvolvedor de soluções de automa�
 
 ### 🌐 Onde me encontrar
 
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sempreperto)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelsontec@gmail.com)
 
 ---
