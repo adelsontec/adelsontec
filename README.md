@@ -23,9 +23,7 @@ Sou **Adelson Guimarães** (@adelsontec), desenvolvedor de soluções de automa�
 
 #### 🛠️ Em Desenvolvimento
 
-- **Soneh** – Assistente de voz 100% offline, com comandos locais via Vosk/Whisper, MQTT, Raspberry Pi e ESP32.
-- **Sonic** – Dispositivo inteligente de pulso com wake word e comandos locais, integração com o Soneh.
-- **DaBoot** – Dispositivo portátil com câmera e microfone para veículos e ambientes externos, com IA embarcada.
+- **Soneh** – Assistente de voz 100% offline.
 - **Monitor de Criança com IA** – Sistema com câmera que detecta ações perigosas e envia alertas em tempo real.
 
 #### ✅ Produto Validado
